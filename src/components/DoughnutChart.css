@@ -1,0 +1,21 @@
+.doughnut-container {
+    width: 95%;
+    height: 95%;
+    margin: 0 auto;
+    text-align: center;
+    background: #fffefe;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  
+  .doughnut-container h3 {
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  canvas {
+    max-width: 100%;
+    height: 300px;
+  }
+  
