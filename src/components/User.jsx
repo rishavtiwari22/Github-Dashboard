@@ -21,7 +21,7 @@ function User() {
                 <div className="userid">
                     <img src={usericon} alt="UserImage" />
                     <p>Welcome, <span>{newuser || 'Rishav Tiwari'}</span></p>
-                    <button className="btn1">Login</button>
+                    {/* <button className="btn1">Login</button> */}
                 </div>
                 <div className="searchUser">
                     <input
