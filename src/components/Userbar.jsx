@@ -74,7 +74,7 @@ function Userbar({ newuser }) {
             </div>
             
             <div className="chart1">
-                <Barchart />
+                <Barchart userData={repos} />
             </div>
         </div>
     );
